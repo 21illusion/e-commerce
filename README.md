@@ -68,8 +68,22 @@ The demo mode utilizes a custom `router.php` script that acts as a Front Control
 ### 3. Procedural & Object-Oriented Mix
 The core business logic is centralized in `functions/common_function.php`, containing over 15 pure functions responsible for everything from rendering the UI components to calculating cart totals. The database adapter utilizes Object-Oriented Programming (OOP) to encapsulate the PDO logic.
 
+
 ---
 
+## 🎥 Project Demonstration
+
+A complete video walkthrough of the project, showcasing the customer shopping experience, product catalog, search and filtering, cart and checkout system, user accounts, administration features, and the overall technical architecture.
+
+### ▶️ Watch the Video
+
+[![Project Demonstration](https://img.youtube.com/vi/aBU8aCfKNyw/maxresdefault.jpg)](https://youtu.be/aBU8aCfKNyw)
+
+**Project Two: An E-commerce Website**
+
+[Watch on YouTube](https://youtu.be/aBU8aCfKNyw)
+
+---
 ## 💻 Technologies Used
 
 ### Backend
