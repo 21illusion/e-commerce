@@ -1,4 +1,4 @@
-# E-Commerce Hardware Store — Final Project 🎓
+# E-Commerce Hardware Store — second Project 🎓
 
 A full-featured, responsive e-commerce website built with PHP and MySQL, designed for selling computer hardware components. This project features a **Zero-Configuration Demo Mode** allowing anyone to run the full application locally with a single click—no web server or database installation required.
 
